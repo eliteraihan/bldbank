@@ -23,9 +23,10 @@
         </property>
     </bean>
 
+    <!-- ntar diganti -->
     <bean id="viewResolver"
           class="org.springframework.web.servlet.view.InternalResourceViewResolver"
-          p:prefix="/WEB-INF/jsp/"  <!-- ntar diganti -->
+          p:prefix="/WEB-INF/view/"
           p:suffix=".jsp" />
 
     <!--
