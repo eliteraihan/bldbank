@@ -22,7 +22,7 @@ public class Koneksi {
 
     public static void ambilKoneksi() {
         try {
-            String db = "jdbc:mysql://localhost:3306/" + NAMA_DB + "?serverTimezone=UTC";   // jangan pedulikan...
+            String db = "jdbc:mysql://localhost:3306/" + NAMA_DB + "?serverTimezone=UTC";
             String user = "root";
             String pass = "";
             Class.forName("com.mysql.jdbc.Driver");
@@ -35,7 +35,7 @@ public class Koneksi {
 
     public void koneksi() {
         try {
-            String db = "jdbc:mysql://localhost:3306/" + NAMA_DB + "?serverTimezone=UTC";   // jangan pedulikan...
+            String db = "jdbc:mysql://localhost:3306/" + NAMA_DB + "?serverTimezone=UTC";
             String user = "root";
             String pass = "";
             Class.forName("com.mysql.jdbc.Driver");

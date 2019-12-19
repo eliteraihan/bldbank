@@ -48,11 +48,11 @@
 
                     <div id="tooplate_menu">
                         <ul>
-                            <li><a href="index.jsp" class="current">Home</a></li>
-                            <li><a href="rselectp.jsp">Join Us</a></li>
-                            <li><a href="bloodbank.jsp">Blood bank</a></li>
+                            <li><a href="index.html" class="current">Home</a></li>
+                            <li><a href=rselectp.html>Join Us</a></li>
+                            <li><a href="bloodbank.html">Blood bank</a></li>
                             <li><a href="viewhospital.jsp">Hospital</a></li>
-                            <li><a href="hospital.jsp">Search Donor</a></li>
+                            <li><a href="hospital.html">Search Donor</a></li>
                             <li><a href="aboutus.jsp">About Us</a></li>
                         </ul>    	
                     </div> <!-- end of tooplate_menu -->
